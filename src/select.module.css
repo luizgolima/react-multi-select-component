@@ -1,6 +1,7 @@
 .container {
     position: relative;
-    width: 20em;
+    width: calc(100% - 1em);
+    max-width: 400px;
     min-height: 1.5em;
     border: .05em solid #777;
     display: flex;
@@ -9,10 +10,14 @@
     padding: .5em;
     border-radius: .25em;
     outline: none;
+    margin: 0 auto;
+    cursor: pointer;
+    transition: .2s ease-in-out;
 }
 
-.container:focus {
-    border-color: hsl(200, 100%, 50%);
+.container:focus,
+.container:hover {
+    border: .1em solid hsl(200, 100%, 50%);
 }
 
 .value {
@@ -27,7 +32,6 @@
     color: #777;
     border: none;
     outline: none;
-    cursor: pointer;
     padding: 0;
     font-size: 1.25em;
 }
