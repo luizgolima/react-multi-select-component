@@ -1,7 +1,5 @@
 # React Multi Select Input
-
 A multi-select dropdown component built with React, Vite.js, TypeScript, and CSS modules.
-
 ![react-multi-select](https://user-images.githubusercontent.com/110183537/215836129-dbaca804-3c5f-4c9c-b947-3e1a6a751a8e.gif)
 
 ## Features
@@ -10,7 +8,6 @@ A multi-select dropdown component built with React, Vite.js, TypeScript, and CSS
 - Select and deselect multiple options
 
 ## Getting Started
-
 1. Clone the repository: `git clone https://github.com/luizgolima/react-multi-select-input.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the project: `npm run dev` or `yarn dev`
@@ -25,15 +22,12 @@ This project is open to contributions. If you would like to contribute, please f
 5. Create a new pull request
 
 ## Built With
-
+- [Vite.js](https://github.com/vitejs/vite) - A build tool and development server
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript
-- [Vite.js](https://github.com/vitejs/vite) - A build tool and development server
 
 ## Author
-
 [Luiz Lima](https://github.com/[luizgolima])
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
