@@ -2,8 +2,7 @@
 
 A multi-select dropdown component built with React, Vite.js, TypeScript, and CSS modules.
 
-<img width="319" alt="multi-1" src="https://user-images.githubusercontent.com/110183537/215808313-d5b7c393-a5a5-4f09-a908-abd71c06704e.png">
-<img width="319" alt="multi-2" src="https://user-images.githubusercontent.com/110183537/215808322-ef782a78-8c12-4f08-b35e-3654d3c1e087.png">
+![react-multi-select](https://user-images.githubusercontent.com/110183537/215836129-dbaca804-3c5f-4c9c-b947-3e1a6a751a8e.gif)
 
 ## Features
 - Select multiple items from a list of options
