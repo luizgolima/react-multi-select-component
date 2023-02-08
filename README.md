@@ -1,4 +1,4 @@
-# React Multi Select Input
+# React Multi Select Component
 A multi-select dropdown component built with React, Vite.js, TypeScript, and CSS modules.
 ![react-multi-select](https://user-images.githubusercontent.com/110183537/215836129-dbaca804-3c5f-4c9c-b947-3e1a6a751a8e.gif)
 
